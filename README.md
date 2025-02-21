@@ -1,4 +1,3 @@
-# Welcome to Ifrah's Curiosity Hub  
 
 ```
                                                                                 ## #
