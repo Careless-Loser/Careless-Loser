@@ -1,16 +1,28 @@
-## Hi there 👋
+```
+                                                                                ## #
+                         ^                             ^                       # #                      
+      ^    ^            /|\            ^    ^         /|\ ^                   ##         ^              
+  ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^ 
+ /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
+ .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|&  |
 
-<!--
-**Careless-Loser/Careless-Loser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#!/usr/bin/env curiosity
+def main():
+    user = "Ifrah"
+    interests = ["Gaming", "Art", "Cybersecurity", "Worldbuilding", "Independent Research", "Distributed Systems", "Interaction Design", "Enjoying Sunsets", "Sharks"]
+    mood = random.choice(["Thoughtful", "Chaotic", "Sleep-Deprived"])
 
-Here are some ideas to get you started:
+    print(f"Hello, world! I am {Careless-Loser}.")
+    print(f"Currently running in {Sleepy} mode.")
+    print("Processing thoughts... Please wait.")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    if "you" in globals():
+        question = "What would happen if we both ran the same dream?"
+        print(f"Query detected: {question}")
+    else:
+        print("No input detected. Running in idle mode...")
+
+if name == "main":
+    main()
+
+```
